@@ -1,0 +1,324 @@
+LOCUS       NM_000497               3551 bp    mRNA    linear   PRI 21-APR-2016
+DEFINITION  Homo sapiens cytochrome P450 family 11 subfamily B member 1
+            (CYP11B1), transcript variant 1, mRNA.
+ACCESSION   NM_000497
+VERSION     NM_000497.3  GI:61743917
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3551)
+  AUTHORS   Nguyen TP, Nguyen TH, Ngo DN, Vu CD, Nguyen TK, Nong VH and Nguyen
+            HH.
+  TITLE     A novel homozygous mutation IVS6+5G>T in CYP11B1 gene in a
+            Vietnamese patient with 11beta-hydroxylase deficiency
+  JOURNAL   Gene 565 (2), 291-294 (2015)
+   PUBMED   25913739
+  REMARK    GeneRIF: Mutations in the CYP11B1 gene are the cause of
+            11beta-hydroxylase deficiency.
+REFERENCE   2  (bases 1 to 3551)
+  AUTHORS   Nakamura Y, Maekawa T, Felizola SJ, Satoh F, Qi X, Velarde-Miranda
+            C, Plonczynski MW, Ise K, Kikuchi K, Rainey WE, Gomez-Sanchez EP,
+            Gomez-Sanchez CE and Sasano H.
+  TITLE     Adrenal CYP11B1/2 expression in primary aldosteronism:
+            immunohistochemical analysis using novel monoclonal antibodies
+  JOURNAL   Mol. Cell. Endocrinol. 392 (1-2), 73-79 (2014)
+   PUBMED   24837548
+  REMARK    GeneRIF: Heterogenous immunolocalization of CYP11B2 and diffuse
+            immunoreactivity of CYP11B1 were detected.
+REFERENCE   3  (bases 1 to 3551)
+  AUTHORS   Menabo S, Polat S, Baldazzi L, Kulle AE, Holterhus PM, Grotzinger
+            J, Fanelli F, Balsamo A and Riepe FG.
+  TITLE     Congenital adrenal hyperplasia due to 11-beta-hydroxylase
+            deficiency: functional consequences of four CYP11B1 mutations
+  JOURNAL   Eur. J. Hum. Genet. 22 (5), 610-616 (2014)
+   PUBMED   24022297
+  REMARK    GeneRIF: study of the functional consequences of 3 novel and 1
+            previously described CYP11B1 gene mutations (p.(Arg143Trp),
+            p.(Ala306Val), p.(Glu310Lys) and p.(Arg332Gln)) detected in
+            patients suffering from classical and non-classical 11beta-OHD
+REFERENCE   4  (bases 1 to 3551)
+  AUTHORS   Polat S, Kulle A, Karaca Z, Akkurt I, Kurtoglu S, Kelestimur F,
+            Grotzinger J, Holterhus PM and Riepe FG.
+  TITLE     Characterisation of three novel CYP11B1 mutations in classic and
+            non-classic 11beta-hydroxylase deficiency
+  JOURNAL   Eur. J. Endocrinol. 170 (5), 697-706 (2014)
+   PUBMED   24536089
+  REMARK    GeneRIF: Data from recombinant proteins suggest three additional
+            mutations in CYP11B1 (p.His125Thrfs*8; p.Leu463_Leu464dup;
+            p.Ser150Leu) can account for congenital adrenal hyperplasia due to
+            11-beta-hydroxylase deficiency (classical/non-classical phenotype).
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 3551)
+  AUTHORS   Prasad R, Metherell LA, Clark AJ and Storr HL.
+  TITLE     Deficiency of ALADIN impairs redox homeostasis in human adrenal
+            cells and inhibits steroidogenesis
+  JOURNAL   Endocrinology 154 (9), 3209-3218 (2013)
+   PUBMED   23825130
+  REMARK    GeneRIF: Expression of P45011beta and StAR (steroidogenic acute
+            regulatory protein) is down-regulated in adrenocortical cells and
+            neurons under oxidative stress by ALADIN (triple A syndrome
+            protein, human) knockdown.
+REFERENCE   6  (bases 1 to 3551)
+  AUTHORS   Nelson DR, Zeldin DC, Hoffman SM, Maltais LJ, Wain HM and Nebert
+            DW.
+  TITLE     Comparison of cytochrome P450 (CYP) genes from the mouse and human
+            genomes, including nomenclature recommendations for genes,
+            pseudogenes and alternative-splice variants
+  JOURNAL   Pharmacogenetics 14 (1), 1-18 (2004)
+   PUBMED   15128046
+  REMARK    Review article
+REFERENCE   7  (bases 1 to 3551)
+  AUTHORS   Helmberg A, Ausserer B and Kofler R.
+  TITLE     Frame shift by insertion of 2 basepairs in codon 394 of CYP11B1
+            causes congenital adrenal hyperplasia due to steroid 11
+            beta-hydroxylase deficiency
+  JOURNAL   J. Clin. Endocrinol. Metab. 75 (5), 1278-1281 (1992)
+   PUBMED   1430088
+REFERENCE   8  (bases 1 to 3551)
+  AUTHORS   Pascoe L, Curnow KM, Slutsker L, Connell JM, Speiser PW, New MI and
+            White PC.
+  TITLE     Glucocorticoid-suppressible hyperaldosteronism results from hybrid
+            genes created by unequal crossovers between CYP11B1 and CYP11B2
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (17), 8327-8331 (1992)
+   PUBMED   1518866
+REFERENCE   9  (bases 1 to 3551)
+  AUTHORS   Lifton RP, Dluhy RG, Powers M, Rich GM, Gutkin M, Fallo F, Gill JR
+            Jr, Feld L, Ganguly A, Laidlaw JC et al.
+  TITLE     Hereditary hypertension caused by chimaeric gene duplications and
+            ectopic expression of aldosterone synthase
+  JOURNAL   Nat. Genet. 2 (1), 66-74 (1992)
+   PUBMED   1303253
+REFERENCE   10 (bases 1 to 3551)
+  AUTHORS   Kawamoto T, Mitsuuchi Y, Toda K, Yokoyama Y, Miyahara K, Miura S,
+            Ohnishi T, Ichikawa Y, Nakao K, Imura H et al.
+  TITLE     Role of steroid 11 beta-hydroxylase and steroid 18-hydroxylase in
+            the biosynthesis of glucocorticoids and mineralocorticoids in
+            humans
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (4), 1458-1462 (1992)
+   PUBMED   1741400
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AF478474.1, X55764.1 and
+            BX647738.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Mar 24, 2005 this sequence version replaced gi:13904852.
+            
+            Summary: This gene encodes a member of the cytochrome P450
+            superfamily of enzymes. The cytochrome P450 proteins are
+            monooxygenases which catalyze many reactions involved in drug
+            metabolism and synthesis of cholesterol, steroids and other lipids.
+            This protein localizes to the mitochondrial inner membrane and is
+            involved in the conversion of progesterone to cortisol in the
+            adrenal cortex. Mutations in this gene cause congenital adrenal
+            hyperplasia due to 11-beta-hydroxylase deficiency. Transcript
+            variants encoding different isoforms have been noted for this gene.
+            [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (1) encodes the longer isoform
+            (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: reported by MitoCarta
+            ##RefSeq-Attributes-END##
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF478474.1, X55764.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2145544, SAMEA2146411
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-879               AF478474.1         1-879
+            880-1092            X55764.1           877-1089
+            1093-2092           AF478474.1         1093-2092
+            2093-3551           BX647738.1         1120-2578
+FEATURES             Location/Qualifiers
+     source          1..3551
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="8"
+                     /map="8q21"
+     gene            1..3551
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /note="cytochrome P450 family 11 subfamily B member 1"
+                     /db_xref="GeneID:1584"
+                     /db_xref="HGNC:HGNC:2591"
+                     /db_xref="MIM:610613"
+     STS             1..1569
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /db_xref="UniSTS:481545"
+     exon            1..246
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /inference="alignment:Splign:1.39.8"
+     CDS             8..1519
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /EC_number="1.14.15.4"
+                     /note="isoform 1 precursor is encoded by transcript
+                     variant 1; cytochrome p450 XIB1; steroid
+                     11-beta-monooxygenase; cytochrome P450, subfamily XIB
+                     (steroid 11-beta-hydroxylase), polypeptide 1; cytochrome
+                     P450 11B1, mitochondrial; CYPXIB1; cytochrome P450C11;
+                     cytochrome P-450c11; cytochrome P450, family 11, subfamily
+                     B, polypeptide 1"
+                     /codon_start=1
+                     /product="cytochrome P450 11B1, mitochondrial isoform 1
+                     precursor"
+                     /protein_id="NP_000488.3"
+                     /db_xref="GI:61743918"
+                     /db_xref="CCDS:CCDS6392.1"
+                     /db_xref="GeneID:1584"
+                     /db_xref="HGNC:HGNC:2591"
+                     /db_xref="MIM:610613"
+                     /translation="MALRAKAEVCMAVPWLSLQRAQALGTRAARVPRTVLPFEAMPRR
+                     PGNRWLRLLQIWREQGYEDLHLEVHQTFQELGPIFRYDLGGAGMVCVMLPEDVEKLQQ
+                     VDSLHPHRMSLEPWVAYRQHRGHKCGVFLLNGPEWRFNRLRLNPEVLSPNAVQRFLPM
+                     VDAVARDFSQALKKKVLQNARGSLTLDVQPSIFHYTIEASNLALFGERLGLVGHSPSS
+                     ASLNFLHALEVMFKSTVQLMFMPRSLSRWTSPKVWKEHFEAWDCIFQYGDNCIQKIYQ
+                     ELAFSRPQQYTSIVAELLLNAELSPDAIKANSMELTAGSVDTTVFPLLMTLFELARNP
+                     NVQQALRQESLAAAASISEHPQKATTELPLLRAALKETLRLYPVGLFLERVASSDLVL
+                     QNYHIPAGTLVRVFLYSLGRNPALFPRPERYNPQRWLDIRGSGRNFYHVPFGFGMRQC
+                     LGRRLAEAEMLLLLHHVLKHLQVETLTQEDIKMVYSFILRPSMFPLLTFRAIN"
+     transit_peptide 8..79
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+     mat_peptide     80..1516
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /product="cytochrome P450 11B1, mitochondrial isoform 1"
+     exon            247..402
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /inference="alignment:Splign:1.39.8"
+     exon            403..602
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /inference="alignment:Splign:1.39.8"
+     exon            603..806
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /inference="alignment:Splign:1.39.8"
+     exon            807..961
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /inference="alignment:Splign:1.39.8"
+     exon            962..1128
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1129..1207
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1208..1405
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1406..3535
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1442..2122
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /standard_name="CYP11B1_2340"
+                     /db_xref="UniSTS:280634"
+     STS             1553..1789
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /standard_name="RH80276"
+                     /db_xref="UniSTS:84624"
+     regulatory      2062..2067
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+     polyA_site      2093
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+     STS             2105..2267
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+                     /standard_name="STS-M32879"
+                     /db_xref="UniSTS:64229"
+     regulatory      3514..3519
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+     polyA_site      3535
+                     /gene="CYP11B1"
+                     /gene_synonym="CPN1; CYP11B; FHI; P450C11"
+ORIGIN      
+        1 cattggaatg gcactcaggg caaaggcaga ggtgtgcatg gcagtgccct ggctgtccct
+       61 gcaaagggca caggcactgg gcacgagagc cgcccgggtc cccaggacag tgctgccctt
+      121 tgaagccatg ccccggcgtc caggcaacag gtggctgagg ctgctgcaga tctggaggga
+      181 gcagggttat gaggacctgc acctggaagt acaccagacc ttccaggaac tagggcccat
+      241 tttcaggtac gacttgggag gagcaggcat ggtgtgtgtg atgctgccgg aggacgtgga
+      301 gaagctgcaa caggtggaca gcctgcatcc ccacaggatg agcctggagc cctgggtggc
+      361 ctacagacaa catcgtgggc acaaatgtgg cgtgttcttg ctgaatgggc ctgaatggcg
+      421 cttcaaccga ttgcggctga atccagaagt gctgtcgccc aacgctgtgc agaggttcct
+      481 cccgatggtg gatgcagtgg ccagggactt ctcccaggcc ctgaagaaga aggtgctgca
+      541 gaacgcccgg gggagcctga ccctggacgt ccagcccagc atcttccact acaccataga
+      601 agccagcaac ttggctcttt ttggagagcg gctgggcctg gttggccaca gccccagttc
+      661 tgccagcctg aacttcctcc atgccctgga ggtcatgttc aaatccaccg tccagctcat
+      721 gttcatgccc aggagcctgt ctcgctggac cagccccaag gtgtggaagg agcactttga
+      781 ggcctgggac tgcatcttcc agtacggcga caactgtatc cagaaaatct atcaggaact
+      841 ggccttcagc cgccctcaac agtacaccag catcgtggcg gagctcctgt tgaatgcgga
+      901 actgtcgcca gatgccatca aggccaactc tatggaactc actgcaggga gcgtggacac
+      961 gacggtgttt cccttgctga tgacgctctt tgagctggct cggaacccca acgtgcagca
+     1021 ggccctgcgc caggagagcc tggccgccgc agccagcatc agtgaacatc cccagaaggc
+     1081 aaccaccgag ctgcccttgc tgcgtgcggc cctcaaggag accttgcggc tctaccctgt
+     1141 gggtctgttt ctggagcgag tggcgagctc agacttggtg cttcagaact accacatccc
+     1201 agctgggaca ttggtgcgcg tgttcctcta ctctctgggt cgcaaccccg ccttgttccc
+     1261 gaggcctgag cgctataacc cccagcgctg gctagacatc aggggctccg gcaggaactt
+     1321 ctaccacgtg ccctttggct ttggcatgcg ccagtgcctt gggcggcgcc tggcagaggc
+     1381 agagatgctg ctgctgctgc accatgtgct gaaacacctc caggtggaga cactaaccca
+     1441 agaggacata aagatggtct acagcttcat attgaggccc agcatgttcc ccctcctcac
+     1501 cttcagagcc atcaactaat cacgtctctg cacccagggt cccagcctgg ccaccagcct
+     1561 ccctttctgc ctgaccccag gccacccctc ttctctccca catgcacagc ttcctgagtc
+     1621 acccctctgt ctaaccagcc ccagcacaaa tggaactccc gagggcctct aggaccaggg
+     1681 tttgccaggc taagcagcaa tgccagggca cagctgggga agatcttgct gaccttgtcc
+     1741 ccagccccac ctggcccttt ctccagcaag cactgtcctc tgggcagttt gcccccatcc
+     1801 ctcccagtgc tggctccagg ctcctcgtgt ggccatacaa gggtgctgtg gttttgtccc
+     1861 ttgccttcct gcctagtctc acatgtccct gttcctcttc ccctggccag ggcccctgcg
+     1921 cagactgtca gagtcattaa gcgggatccc agcatctcag agtccagtca agttccctcc
+     1981 tgcagcctga cccctaggca gctcgagcat gccctgagct ctctgaaagt tgtcaccctg
+     2041 gaatagggtc ctgcagggta gaataaaaag gcccctgtgg tcacttgtcc tgacatcccc
+     2101 attttcaagt gatacaactg agtctcgagg gacgtgtgtt ccccagctga tcgtgtcagc
+     2161 ctcatgcccc aggcctcatc tttcatggac caggccttgt tccaggagtg ggtgttgggt
+     2221 cctctgcttc ctgtgctgtc ccctggggaa ggtcccgagg atgctgtcag gagatggaag
+     2281 agtcatgtgg ggtgggaacc tggggtgtgg ttccagaaat gtttttggca acaggagaga
+     2341 caggattggg ccaacaagga ctcagacgag ttttattgac tcatttctct ggttgatacg
+     2401 gagccatgtc atgtgccacg acctggggtg ggcacaggga ggctgcagtt tcctgcgtga
+     2461 acctgccttg ggcctcatct gctcctagcc cagcagagag agttgacccc tcctgaactg
+     2521 gccactcccc agtgctcccg tgcagggaga ggaagcaccc agtttgagag tgtacccagc
+     2581 cagactgtct ttatctccat ggattttcat cagggcaaag atcacagcag ccagctcctg
+     2641 gtggctgatg aggatcagag catttgttcc cccatgaaag gggaaatccc tatggcatca
+     2701 ttccagtggt ggtcagtaga tccaggacgc cctgcaggac tcagcctgta cagggagatg
+     2761 aagtgcccca ggttgggagc acacctagct agagttattt gtgttaatct attcaggatg
+     2821 ctctaagaaa acgccataga ctgggttgct gacaaacatc agaattctat ttctcatggt
+     2881 tctgaaggct tagaaggcta agatcaaggt gtcagcaggt tctgtgtctg gtgaggaccc
+     2941 acctcttgtt tcatagataa aaccttcttg ctgtgtcctc acatggtgga aaagggcaag
+     3001 acagctcaca gagacctctt ttataaggac gccagttcca ttcaagaggg cactgcctgc
+     3061 attcccttcc cccctcaaag gcccggccct gctattatcg tcaccttggt gactagattt
+     3121 cagcctatga attctggagg cggacacaaa aattcagatt aaactactct gcttctgttt
+     3181 ctctaaaatc tacatccttc tcatatacaa aatacatgca tttctcccca gtagccccaa
+     3241 atatcaactc attttagcat caactttaaa attgtagtcc aaagtgtgat ttaaatgtta
+     3301 tctgagtcaa acatgggtaa gactcaaggt acaatttatc ctgagtccaa ctgttcttgc
+     3361 tgcgaaccta tgaaatcaaa catgttatgt gcttccaaaa tacagtggtt ggagaggcat
+     3421 aggataaaca ttcccattcc agaaaggaga aacaggaaag aagaaaggag taacaagttt
+     3481 caagcaactc caaaattgaa tgtgacaaac agtattaaac cttaagcctc aagaaaaaaa
+     3541 aaaaaaaaaa a
+//
